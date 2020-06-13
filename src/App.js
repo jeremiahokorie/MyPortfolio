@@ -74,26 +74,26 @@ function App() {
           
           
 
-    <section className="page-section bg-warning" id="services">
+    <section className="page-section " id="services">
         <div className="container">
             <div className="text-center">
-                <h2 className="section-heading text-uppercase text-light" >Project</h2>
+                <h2 className="section-heading text-uppercase" >Project</h2>
                 <h3 className="section-subheading text-muted">Checkout my awesome project.</h3>
             </div>
             <div className="row text-center">
                 <div className="col-md-4">
                     <span className="fa-stack fa-4x"><i className="fa fa-circle fa-stack-2x text-primary"></i><i className="fa fa-shopping-cart fa-stack-1x fa-inverse"></i></span>
-                    <h4 className="rounded-circle text-light">Web</h4>
+                    <h4 className="rounded-circle">Web</h4>
                     <p className="text-muted">Building website for small and medium business owners. Promoting your product and services with the best available platform </p>
                 </div>
                 <div className="col-md-4">
                     <span className="fa-stack fa-4x"><i className="fa fa-circle fa-stack-2x text-primary"></i><i className="fa fa-laptop fa-stack-1x fa-inverse"></i></span>
-                    <h4 className="my-3 text-light">Mobile App</h4>
+                    <h4 className="my-3">Mobile App</h4>
                     <p className="text-muted">Developing Android and Ios Application making it easy to reachout to your customers.</p>
                 </div>
                 <div className="col-md-4">
                     <span className="fa-stack fa-4x"><i className="fa fa-circle fa-stack-2x text-primary"></i><i className="fa fa-lock fa-stack-1x fa-inverse"></i></span>
-                    <h4 className="my-3 text-light">Backend Services</h4>
+                    <h4 className="my-3">Backend Services</h4>
                     <p className="text-muted">Building Apis that other services can integrate into for various business purpose</p>
                 </div>
             </div>
